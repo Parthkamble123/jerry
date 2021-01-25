@@ -6,12 +6,12 @@ var mouse4,mouse4IMg
 
 function preload() {
     //load the images here
-catImg=loadImage("images/cat1.png");
-gardenImg=loadImage("images/garden.png");
-mouseImg=loadImage("images/mouse2.png");
-catImg2=loadImage("images/cat2.png")
-catImg4 = loadImage("images/cat4.png")
-mouse4IMg = loadImage("images/mouse4.png")
+catImg=loadImage("cat1.png");
+gardenImg=loadImage("garden.png");
+mouseImg=loadImage("mouse2.png");
+catImg2=loadImage("cat2.png")
+catImg4 = loadImage("cat4.png")
+mouse4IMg = loadImage("mouse4.png")
 }
 
 function setup(){
